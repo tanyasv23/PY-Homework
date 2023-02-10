@@ -1,20 +1,20 @@
 # task2
 
-# print("Task2 result: \n")
-# a = 'sum'
-# b = 9+8
+print("Task2 result: \n")
+a = 'sum'
+b = 9+8
 
-# #sum = 17
-# print(a, b, sep = ' = ')
+#sum = 17
+print(a, b, sep = ' = ')
 
 
-# c = input("Enter your age: ")
-# print(c)
-# d = "Your age is: "
+c = input("Enter your age: ")
+print(c)
+d = "Your age is: "
 
-# # Your age is: 21
-# print(d, end = c)
-# print("\n")
+# Your age is: 21
+print(d, end = c)
+print("\n")
 
 
 

@@ -19,6 +19,8 @@ print ("Hello", name, secondName, sep = " ")
 #v2
 print("Hello " + name + ' ' + secondName + "\n")
 
+#v3
+print(f"Hello {name} {secondName}\n")
 
 #task3
 

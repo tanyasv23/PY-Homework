@@ -1,4 +1,4 @@
-str1 = input("Ener the word: ")
+str1 = input("Enter the string: ")
 
 strLenght = len(str1)
 if strLenght < 2:

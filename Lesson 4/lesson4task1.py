@@ -1,15 +1,7 @@
-str1 = "beetroot"
-print(str1[0] + str1[1] + str1[-2] + str1[-1])
+str1 = input("Ener the word: ")
 
-str2 = "me"
-#v1
-print(str2 * 2)
-#v2
-print((str2[0] + str2[1]) * 2)
-
-str3 = "a"
-strLenght = len(str3)
+strLenght = len(str1)
 if strLenght < 2:
     print()
 else:
-    print(str3)
+    print(str1[0] + str1[1] + str1[-2] + str1[-1])

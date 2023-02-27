@@ -15,4 +15,4 @@ def make_operation(operator, *numbers):
 print(make_operation('+', 84, 22, 12)) 
 print(make_operation('-', 30, 76, 8))
 print(make_operation('*', 9, 15, 3))
-print(make_operation('/', 7, 2, 1))
+print(make_operation('/', 7, 2, 1)) 

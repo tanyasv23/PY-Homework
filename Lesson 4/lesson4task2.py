@@ -17,9 +17,3 @@ if phone(phoneNumber, numbers) == True:
         print("Phone number is correct\n")
 else:
     print ("Error! Phone number should contain only numbers\n")
-
-
-
-
-
-

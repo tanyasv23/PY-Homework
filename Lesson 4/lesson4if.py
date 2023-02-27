@@ -136,7 +136,7 @@ print ("Positive: ", positive)
 print ("Negative: ", negative)
 
 
-#task6
+#task6 
 
 print("\nTask 6")
 
@@ -181,3 +181,4 @@ while r == False:
         print("Error")
 
     q +=1
+    

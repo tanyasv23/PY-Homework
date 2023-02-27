@@ -36,4 +36,3 @@ while i < 10:
     i +=1
 
 print("Sum is:", p)
-

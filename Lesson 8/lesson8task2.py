@@ -1,8 +1,6 @@
-def make_country():
+def make_country(name, capital):
 
-    name = "Spain"
-    capital = "Madrid"
     dic = {"Country": name, "Capital": capital}
     return dic
 
-print(make_country())
+print(make_country("Spain", "Madrid"))

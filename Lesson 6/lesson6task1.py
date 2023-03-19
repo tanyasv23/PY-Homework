@@ -6,8 +6,7 @@ k = 0
 
 while i < 10:
     a.append(randint(1, 1000))
-    if a[i] > k:
-        k = a[i]
+    k = max(a)
     i += 1
 
 print (a)

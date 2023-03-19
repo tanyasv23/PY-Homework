@@ -1,5 +1,4 @@
-def fav_movie():
-    name = "Harry Potter"
+def fav_movie(name):
     return name
 
-print(f"My favorite movie is {fav_movie()}")
+print(f"My favorite movie is {fav_movie('Harry Potter')}")

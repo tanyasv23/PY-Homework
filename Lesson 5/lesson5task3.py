@@ -6,7 +6,7 @@ lt = list(word)
 i = 0
 
 while i < 5:
-    a = random.shuffle(lt)
+    random.shuffle(lt)
     print(''.join(lt))
     i += 1
 
